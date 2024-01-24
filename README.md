@@ -1,2 +1,2 @@
-# No_way
-Class
+None is here
+
